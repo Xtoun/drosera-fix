@@ -1,2 +1,2 @@
 # drosera-fix
-Ремонт красных блоков Drosera
+source <(curl -fsSL https://raw.githubusercontent.com/Xtoun/drosera-fix/refs/heads/main/fix.sh)
